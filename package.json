@@ -2,7 +2,7 @@
   "name": "renovate-npm-workspaces-sandbox",
   "version": "1.0.0",
   "description": "",
-  "workspaces:": [
+  "workspaces": [
     "apps/*"
   ]
 }
