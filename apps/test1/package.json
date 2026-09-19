@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@apollo/client": "^3.2.0"
+    "@apollo/client": "^4.0.0"
   }
 }
